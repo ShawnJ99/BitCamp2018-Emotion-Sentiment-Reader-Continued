@@ -12,10 +12,10 @@ from tweepy import API
 
 
 # keys and tokens from the Twitter Dev Console 						(Before committing remember to hide)
-consumer_key = "f81rnWk1xGOy61lqDAQ6VQ7Ms"
-consumer_secret = "aLtuyVIPugaluuPAohqngAezTOP7z7BDR4ljIR9oWcAllOD9Nl"
-access_token = "179606045-AzWfFpunUf73A354XenHJbzbi4HBI6IVwWI2AVxc"
-access_token_secret = "mw3czr0T295Z8CAR9GMZQipZxQfjB7uUvC6FGmpgkcNvb"
+consumer_key = "Use Your Own"
+consumer_secret = "Use Your Own"
+access_token = "Use Your Own"
+access_token_secret = "Use Your Own"
 
 # user name is the targets twitter name
 # nTweets is the n-1 tweets the user wants to view

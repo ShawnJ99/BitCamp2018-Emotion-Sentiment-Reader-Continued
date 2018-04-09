@@ -8,7 +8,7 @@ import string
 
 # If you want to download Indico API: https://indico.io/docs#install
 # For using Indico 								HIDE BEFORE PUSHING
-API_KEY = "86835201fbce14ccf4eb3986da330f5a"		
+API_KEY = "Use your own"		
 indicoio.config.api_key = API_KEY
 
 class Tweet:
